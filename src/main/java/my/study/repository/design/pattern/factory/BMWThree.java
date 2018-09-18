@@ -1,0 +1,12 @@
+package my.study.repository.design.pattern.factory;
+
+/**
+ * @author djh on  2018/7/28 23:09
+ * @E-Mail 1544579459@qq.com
+ */
+public class BMWThree implements BMW {
+    @Override
+    public void speak() {
+        System.out.println("I am BMW Three series");
+    }
+}

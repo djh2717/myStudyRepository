@@ -1,0 +1,9 @@
+package my.study.repository.design.pattern.adapter;
+
+/**
+ * @author djh on  2018/8/10 00:01
+ * @E-Mail 1544579459@qq.com
+ */
+public interface Dst {
+    int mobileCharge();
+}
