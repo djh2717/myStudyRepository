@@ -1,6 +1,11 @@
 package my.study.repository.design.pattern.strategy;
 
 /**
+ * Strategy patter: key word "strategy".
+ * <p>
+ * This patter is conform the OCP. When one thing have different algorithm to do it,
+ * we should use this patter, use a context object to use the strategy.
+ *
  * @author djh on  2018/9/12 16:12
  * @E-Mail 1544579459@qq.com
  */

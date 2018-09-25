@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * Observe patter: key word "observe".
+ * <p>
  * Observe design mode, when one object or date is be dependent on more than one object,
  * when the be dependent object or data is change, we can use this design mode to update
  * all object who is dependent on the data or object.

@@ -1,6 +1,11 @@
 package my.study.repository.design.pattern.factory;
 
 /**
+ * Factory patter: key words "factory".
+ * <p>
+ * This patter use to build a object for client, and the client do not need know the
+ * construction details.
+ *
  * @author djh on  2018/7/28 23:09
  * @E-Mail 1544579459@qq.com
  */
