@@ -6,9 +6,10 @@ import java.util.Random;
  * @author djh on  2018/9/23 15:39
  * @E-Mail 1544579459@qq.com
  */
+@SuppressWarnings("unchecked")
 public class SelectedSort {
 
-    private static boolean isLess(Comparable a, Comparable b) {
+    private static <T extends Comparable<T>> boolean isLess(T a, T b) {
         return a.compareTo(b) < 0;
     }
 

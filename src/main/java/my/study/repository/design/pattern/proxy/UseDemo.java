@@ -1,7 +1,7 @@
 package my.study.repository.design.pattern.proxy;
 
 /**
- * Proxy patter: key word "proxy".
+ * Proxy pattern: key word "proxy".
  * <p>
  * This patter use to when the sub class implement the base operate, but it do not
  * implement the detail, so we can use the proxy implement the same base operate, and
