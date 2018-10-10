@@ -14,6 +14,7 @@ import java.util.Map;
  * @author djh on  2018/9/17 15:27
  * @E-Mail 1544579459@qq.com
  */
+@SuppressWarnings("ALL")
 public class Lru<K, V> {
 
     private int mMaxSize;
