@@ -1,4 +1,4 @@
-package my.study.repository.design.pattern.strategy;
+package my.study.repository.design.pattern.strategy.java;
 
 /**
  * Strategy pattern: key word "strategy".

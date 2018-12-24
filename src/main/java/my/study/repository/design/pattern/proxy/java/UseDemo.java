@@ -1,4 +1,4 @@
-package my.study.repository.design.pattern.proxy;
+package my.study.repository.design.pattern.proxy.java;
 
 /**
  * Proxy pattern: key word "proxy".

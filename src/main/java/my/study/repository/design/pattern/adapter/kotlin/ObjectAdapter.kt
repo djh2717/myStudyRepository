@@ -5,9 +5,8 @@ package my.study.repository.design.pattern.adapter.kotlin
  * @E-Mail 1544579459@qq.com
  */
 class ObjectAdapter(
-        private val src: Src
-) : Dst {
-
+        private val src: Src) : Dst {
+    
     override fun mobileCharge(): Int {
         println("开始适配电压!")
         val voltage = src.standardVoltage() / 4

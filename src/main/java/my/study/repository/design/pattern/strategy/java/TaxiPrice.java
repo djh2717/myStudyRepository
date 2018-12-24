@@ -1,4 +1,4 @@
-package my.study.repository.design.pattern.strategy;
+package my.study.repository.design.pattern.strategy.java;
 
 /**
  * @author djh on  2018/9/12 16:12

@@ -7,11 +7,11 @@ package my.study.repository.design.pattern.factory.kotlin
 object UseDemo {
     @JvmStatic
     fun main(args: Array<String>) {
-        val bmwThree = getBmwThree()
-        val bmwSix = getBmwSix()
-    
+        val bmwThree = EasyFactory.getBmwThree()
+        val bmwSix = EasyFactory.getBmwSix()
+        
         bmwThree.speak()
         bmwSix.speak()
-
+        
     }
 }

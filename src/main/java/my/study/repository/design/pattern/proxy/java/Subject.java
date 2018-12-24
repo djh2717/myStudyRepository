@@ -1,4 +1,4 @@
-package my.study.repository.design.pattern.proxy;
+package my.study.repository.design.pattern.proxy.java;
 
 /**
  * @author djh on  2018/9/7 13:44
